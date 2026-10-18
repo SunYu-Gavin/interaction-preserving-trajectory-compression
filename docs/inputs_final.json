@@ -1,0 +1,250 @@
+[
+  {
+    "recording_index": 0,
+    "records": 40052,
+    "vehicles": 135,
+    "time_start": 0,
+    "time_end": 439,
+    "source_format": "citysim",
+    "metadata": {
+      "source_dataset": "CitySim",
+      "source_version": "local-release-unversioned",
+      "recording_id": "Final_ReleaseWith Other/Freeway C(Merging or Diverging)/Trajectories/FreewayC-12.csv",
+      "ticks_per_second": 30,
+      "position_unit": "m",
+      "timestamp_unit": "1/30 second",
+      "original_sha256": "718738afad24224c383c6553a3607550bf4dccb32b72f196d74c9156279e1d11",
+      "frame_order_policy": "sort",
+      "object_type": "vehicle (subtype unavailable)"
+    }
+  },
+  {
+    "recording_index": 1,
+    "records": 27769,
+    "vehicles": 121,
+    "time_start": 0,
+    "time_end": 8998,
+    "source_format": "citysim",
+    "metadata": {
+      "source_dataset": "CitySim",
+      "source_version": "local-release-unversioned",
+      "recording_id": "Intersection B (Non-Signalized Intersection)/Trajectories/IntersectionB-09.csv",
+      "ticks_per_second": 30,
+      "position_unit": "m",
+      "timestamp_unit": "1/30 second",
+      "original_sha256": "449c55cc8e95b11ee6762c3a65fd6ce875377944a3508cfa4aa7112e7b3d61c4",
+      "frame_order_policy": "sort",
+      "object_type": "vehicle (subtype unavailable)"
+    }
+  },
+  {
+    "recording_index": 2,
+    "records": 15462,
+    "vehicles": 124,
+    "time_start": 0,
+    "time_end": 399,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / nuplan_train",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/train_vegas2/nuplan_train/2021.06.09.18.19.00_veh-26_04421_04839=2146f9ae8a5f584a/agent_data_dt0.05.feather",
+      "original_recording_group": "nuplan_train/2021.06.09.18.19.00_veh-26_04421_04839",
+      "ticks_per_second": 20,
+      "native_dt_s": 0.05,
+      "position_unit": "m",
+      "timestamp_unit": "1/20 second",
+      "original_sha256": "b976f4178872b413742455055411783fe692e44bd56cab7e03ef3c3506b8db6c",
+      "metadata_sha256": "6ef3904ebcc02d49c2755e53a6186e5bb39b1edb1c838ac984a89097f8e88d42",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 3,
+    "records": 15817,
+    "vehicles": 77,
+    "time_start": 0,
+    "time_end": 399,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / nuplan_train",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/train_vegas6/nuplan_train/2021.07.17.02.11.48_veh-47_01011_02469=a3e24714a5325b34/agent_data_dt0.05.feather",
+      "original_recording_group": "nuplan_train/2021.07.17.02.11.48_veh-47_01011_02469",
+      "ticks_per_second": 20,
+      "native_dt_s": 0.05,
+      "position_unit": "m",
+      "timestamp_unit": "1/20 second",
+      "original_sha256": "ad55e7bbfa72556c955d239db67baa0384dedc1091d379a3b3a6c92454c9bd31",
+      "metadata_sha256": "a2f39ccec729a0d81587258d6db27a153b672479bc70dde7f3757cbc0f733b26",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 4,
+    "records": 9033,
+    "vehicles": 54,
+    "time_start": 0,
+    "time_end": 399,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / nuplan_train",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/train_vegas6/nuplan_train/2021.07.22.01.42.44_veh-12_00537_03284=77d6dea8193d5f99/agent_data_dt0.05.feather",
+      "original_recording_group": "nuplan_train/2021.07.22.01.42.44_veh-12_00537_03284",
+      "ticks_per_second": 20,
+      "native_dt_s": 0.05,
+      "position_unit": "m",
+      "timestamp_unit": "1/20 second",
+      "original_sha256": "99e604c6f10ab95865a3abd32684372de46fce7ea90702df7fdfb5ae68ac8558",
+      "metadata_sha256": "a217b8eff9068b7b417a0e8f6e1dc2c36b3449d44bfddc7a6ebbcd48e3d92229",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 5,
+    "records": 7196,
+    "vehicles": 66,
+    "time_start": 0,
+    "time_end": 399,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / nuplan_train",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/train_vegas5/nuplan_train/2021.07.07.18.27.54_veh-35_02349_04158=4850188020ba53b6/agent_data_dt0.05.feather",
+      "original_recording_group": "nuplan_train/2021.07.07.18.27.54_veh-35_02349_04158",
+      "ticks_per_second": 20,
+      "native_dt_s": 0.05,
+      "position_unit": "m",
+      "timestamp_unit": "1/20 second",
+      "original_sha256": "4f3ac299443b82843adac8b551dee6547a5f89f8efa05b26e891f322cdf14b49",
+      "metadata_sha256": "ca0f2d6b37debb027f745c822d66ebc49c28d1ec45b6d2ec78f54a02a6fcd029",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 6,
+    "records": 11133,
+    "vehicles": 90,
+    "time_start": 0,
+    "time_end": 399,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / nuplan_train",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/train_vegas6/nuplan_train/2021.07.16.16.27.22_veh-26_03836_05047=9cfcfd1bb9a75c3f/agent_data_dt0.05.feather",
+      "original_recording_group": "nuplan_train/2021.07.16.16.27.22_veh-26_03836_05047",
+      "ticks_per_second": 20,
+      "native_dt_s": 0.05,
+      "position_unit": "m",
+      "timestamp_unit": "1/20 second",
+      "original_sha256": "63e4f52faf99ccf4cd0bde584dddf3afee25d8f565a61a72ee31d4735fe4bc1e",
+      "metadata_sha256": "a671b2f5b7664dda65f03a76e86e0c3d2392201849c702969319badf201ef339",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 7,
+    "records": 11101,
+    "vehicles": 372,
+    "time_start": 0,
+    "time_end": 247,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / lyft_train_full",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/lyft_train_full/lyft_train_full/scene-102187/agent_data_dt0.10.feather",
+      "original_recording_group": "lyft_train_full/scene-102187",
+      "ticks_per_second": 10,
+      "native_dt_s": 0.1,
+      "position_unit": "m",
+      "timestamp_unit": "1/10 second",
+      "original_sha256": "64c6fe51725a61865de4e96bc591e408138d5758492b6c5a4a954fc7148530b5",
+      "metadata_sha256": "4d1f275014a53537923d03686018daf4b3775826740892fef2fe3feaec54d529",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 8,
+    "records": 9834,
+    "vehicles": 506,
+    "time_start": 0,
+    "time_end": 247,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / lyft_train_full",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/lyft_train_full/lyft_train_full/scene-3701/agent_data_dt0.10.feather",
+      "original_recording_group": "lyft_train_full/scene-3701",
+      "ticks_per_second": 10,
+      "native_dt_s": 0.1,
+      "position_unit": "m",
+      "timestamp_unit": "1/10 second",
+      "original_sha256": "d19355ce588be66e7cdf8c7670801c6a2a418eca535e753c744833d7df70f635",
+      "metadata_sha256": "5702d4dfaf0bc2b2f5bf87713b1347a74b14c8f3391140b33ddd6ddf2a4ded76",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 9,
+    "records": 12863,
+    "vehicles": 532,
+    "time_start": 0,
+    "time_end": 247,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / lyft_train_full",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/lyft_train_full/lyft_train_full/scene-8864/agent_data_dt0.10.feather",
+      "original_recording_group": "lyft_train_full/scene-8864",
+      "ticks_per_second": 10,
+      "native_dt_s": 0.1,
+      "position_unit": "m",
+      "timestamp_unit": "1/10 second",
+      "original_sha256": "0a9a5ddbf9643853b9500a17e6faf7cf3823f8f8bb86550d0824390e3bd10f84",
+      "metadata_sha256": "17bdef9d5df9cce4ddb060b673c97bc0e551f5dc7451acc5fd664a2e1428a1cf",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 10,
+    "records": 15930,
+    "vehicles": 851,
+    "time_start": 0,
+    "time_end": 248,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / lyft_train_full",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/lyft_train_full/lyft_train_full/scene-124255/agent_data_dt0.10.feather",
+      "original_recording_group": "lyft_train_full/scene-124255",
+      "ticks_per_second": 10,
+      "native_dt_s": 0.1,
+      "position_unit": "m",
+      "timestamp_unit": "1/10 second",
+      "original_sha256": "d4c8d66cec8d095ab8ff4800dedb2bf6c34ef438cd25d9d09539d813df69f158",
+      "metadata_sha256": "1dc9b9a61e003a64084ddcf587ffb7f20eb7040bb377626fabdc998e298ba3c9",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  },
+  {
+    "recording_index": 11,
+    "records": 11777,
+    "vehicles": 561,
+    "time_start": 0,
+    "time_end": 248,
+    "source_format": "interhub_feather",
+    "metadata": {
+      "source_dataset": "InterHub v7 / lyft_train_full",
+      "source_version": "local-v7-native-cache",
+      "recording_id": "InterHub_cache_files/lyft_train_full/lyft_train_full/scene-96208/agent_data_dt0.10.feather",
+      "original_recording_group": "lyft_train_full/scene-96208",
+      "ticks_per_second": 10,
+      "native_dt_s": 0.1,
+      "position_unit": "m",
+      "timestamp_unit": "1/10 second",
+      "original_sha256": "4f84e049fae2477008f585cde1a2f0e3715c0a1ef8c569601092ba5341fcfdf6",
+      "metadata_sha256": "2d643bc268cc6d5c195630293ff825059136169217a0ed603c864bdf1b23be92",
+      "object_type": "all AgentType.VEHICLE (1), including ego"
+    }
+  }
+]

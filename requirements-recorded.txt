@@ -1,0 +1,5 @@
+# Recorded experiment environment; portable minimum requirements are in pyproject.toml.
+numpy==2.5.4
+PyYAML==6.0.3
+pytest==9.1.1
+# Optional native cache input in the recorded environment: pyarrow==26.0.0

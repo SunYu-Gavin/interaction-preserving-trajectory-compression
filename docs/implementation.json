@@ -1,0 +1,34 @@
+{
+  "unchanged_source_sha256": {
+    "src/iptc/__init__.py": "c901637b51712f4b208222c6d587b8729b735c1036a90a06fc22baea575cd3fd",
+    "src/iptc/baselines.py": "0e404d97bab4f60532cf6b9abb4532c524eae5b9118ce09b5917dfd46c2d0507",
+    "src/iptc/certificates.py": "772a9f4ea5f6129db33796571e9f66cdfca80742473fcc69c2cd5f1b2e57e709",
+    "src/iptc/codecs.py": "afded940e2b7777eb8064606f5fdf288665a0c4642d693f5aca03aa2ab3465db",
+    "src/iptc/events.py": "e9ef4eeea20d6aab5445ea75ceb8762b66522173753a5dcbc56f0e3566b2c8c2",
+    "src/iptc/evaluate.py": "08c5eef76adcae0add61594848ef1069c382f9691c7d84413d28ab52c50498a8",
+    "src/iptc/geo_opt.py": "6775d90793b38856c15b0dd447cfc1ce344499c4388f82377305520a3eaaf7bd",
+    "src/iptc/geometry.py": "55778c47ef6c2a821cdf541fb342148af3b075bb411a0cef1d64deaf24be18cf",
+    "src/iptc/joint.py": "38c2ed05d6e9384df8dc4f7ff15267be20e8d4f600e4a2fe20dfce6d2bc641c9",
+    "src/iptc/local.py": "78fd2e447519894cb738a94f4611295236e8408770c3fe4cc62eccb5f3b0c4c6",
+    "src/iptc/margin.py": "ce5417a6ede3302c7f04a4e3604afbcb09131cd4dbacce278d1527dffb3d6f0a",
+    "src/iptc/paper_codec.py": "969023dd675d9bd0c8fb8e930db5b9d8264931f6c58185ca431b76b5239747b4",
+    "src/iptc/paper_encoder.py": "b56222fc2322904c6718748a2523bf8a1d201d574261d3f130b9f7a953b8ef25",
+    "src/iptc/prune.py": "410bd2d32312afb8a466a5595054a1d102b30c209e21d9d202b3ddacea390f72",
+    "src/iptc/refinement_query.py": "29081c1efc4701cf7c9e12bec4b007b39616658e41b848f660c6a6c65827d3f3",
+    "src/iptc/resources.py": "fa6fc77c72f3f850d233f72aaf08c8b7b627c8b0301afae3508482749164531e",
+    "src/iptc/danger_band.py": "cb4c6968840df9b350363bb19da9209f75c04cacb739522b8db448d4cac5b124",
+    "src/iptc/prune_band.py": "59d6354fadca282db86d0f69724e754d9e0c7b894510792c69cbf893607456fe",
+    "src/iptc/prune_band_csr.py": "aab7bb24c3bc338397859c5fca611d3d094db11cd8e1015882987e12aa3344e2",
+    "src/iptc/encoder_band_csr.py": "0ea3503392e1f7d06de46c512e55272c6e6c292fd74dc970cd7fcef928505531",
+    "src/iptc/byte_refine.py": "5c6fe10bc5e01c2703e8e81eb115b66f8c7d2465a5fc8d292897b015a74cd5cd",
+    "src/iptc/byte_encoder.py": "7f4d7069b824a24c24d6c6211e515f8e2f016da02910e483e391f0f5daf8ec50",
+    "src/iptc/static_metadata.py": "2dc061961740a4fe41ec2b20f397fbd0f37bf29b1172af2382bcfd35ed5fee8a"
+  },
+  "packaging_changes": [
+    "data.py: retain data model and CitySim loader only",
+    "interhub.py: use installed pyarrow instead of a machine-specific sys.path",
+    "strong_controls.py: retain encoder API only",
+    "baseline_extensions.py: retain RAW-GREEDY, SEED-DAG, XOR-SCAN only",
+    "cli.py and benchmark.py: portable interfaces"
+  ]
+}

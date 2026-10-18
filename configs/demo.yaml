@@ -1,0 +1,10 @@
+# Run from the repository root. Synthetic functionality demo, not paper data.
+inputs: [runs/raw.npz]
+output: runs/demo
+epsilons: [0.1]
+radii: [5, 10, 20]
+block_seconds: 2
+repetitions: 1
+implementation: frozen
+seconds_per_case: 120
+methods: [GEO-GREEDY, RAW-DAG, FULL-DAG, FULL-DAG-BYTE, FULL-INDEX, XOR-INDEX]
